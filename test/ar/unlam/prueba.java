@@ -6,13 +6,13 @@ import org.junit.Test;
 
 import ar.unlam.enums.TipoDeBicicleta;
 import ar.unlam.enums.TipoDeEvento;
+import ar.unlam.exceptions.NoEstaPreparado;
 import ar.unlam.model.Ciclista;
 import ar.unlam.model.Club;
 import ar.unlam.model.Corredor;
 import ar.unlam.model.Deportista;
 import ar.unlam.model.Nadador;
 import ar.unlam.model.Triatleta;
-import ar.unlam.model.exceptions.NoEstaPreparado;
 
 public class prueba {
 

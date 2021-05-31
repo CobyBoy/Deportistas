@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 import ar.unlam.enums.TipoDeEvento;
-import ar.unlam.model.exceptions.NoEstaPreparado;
+import ar.unlam.exceptions.NoEstaPreparado;
 
 public class Club {
 	private String nombre;
